@@ -4,6 +4,6 @@ These are projects for math 311 Linear Algebra course at Winona State University
 
 # Projects:
 
-1. Solving Systems using Colab and Python.
+1. Solving Systems using Colab and Python
 
-Using Google Colab to solve equations
+Using Google Colab to solve equations:
