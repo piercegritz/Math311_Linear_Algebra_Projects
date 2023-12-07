@@ -20,4 +20,9 @@ https://github.com/piercegritz/Math311_Linear_Algebra_Projects/blob/main/Using_M
 https://github.com/piercegritz/Math311_Linear_Algebra_Projects/blob/main/Graham_Schmidt_Process.ipynb
 
 
+4. Finding a Secret Number
+
+https://github.com/piercegritz/Math311_Linear_Algebra_Projects/blob/main/Finding_a_Secret_Number.ipynb 
+
+
 
