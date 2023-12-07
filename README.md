@@ -10,3 +10,14 @@ Using Google Colab to solve equations:
 
 
 https://github.com/piercegritz/Math311_Linear_Algebra_Projects/blob/main/Copy_of_Math_311_solve_systems_using_computation_and_rref.ipynb
+
+2. Using Markov Chains to Predict Transitions on the Ski Hill
+
+https://github.com/piercegritz/Math311_Linear_Algebra_Projects/blob/main/Using_Markov_Chains_to_Predict_Transitions_on_the_Ski_Hill.ipynb
+
+3. Graham Schmidt Process
+
+https://github.com/piercegritz/Math311_Linear_Algebra_Projects/blob/main/Graham_Schmidt_Process.ipynb
+
+
+
